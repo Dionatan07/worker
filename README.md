@@ -21,6 +21,6 @@ do usuário um mês e mostrar qual foi o salário do funcionário nesse mês.
 - [x] Composição;
 - [x] Lógica da programação;
 
----------------------
+-----------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
